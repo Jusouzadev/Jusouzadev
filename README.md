@@ -1,16 +1,13 @@
-### Hi there 👋
+Oii! Eu sou a Julia Souza
 
-<!--
-**Jusouzadev/Jusouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐱‍👤 Sou Desenvolvedora Full Stack 
 
-Here are some ideas to get you started:
+👩🏻‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando HTML e JavaScript
+
+< div  align = "centro" >
+  
+  < img height = "180cm" src = " https://github-readme-stats.vercel.app/api?username=jusouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /_>
+  < img height = "180cm" src = " https://github-readme-stats.vercel.app/api/top-langs/?username=jusouzadev&layout=compact&langs_count=7&theme=dracula" /_>
+  </ div >
