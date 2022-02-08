@@ -8,15 +8,11 @@ Oii! Eu sou a Julia Souza
 
  <div>
 
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=jusouzadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>     
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jusouzadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>     
-
-
-
-<img height = "150cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jusouzadev&layout=compact&langs_count=7&theme=radical" />
+<img height = "120cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jusouzadev&layout=compact&langs_count=7&theme=radical" />
  </div>
 
- 
 
 <div align right>
 <img src="https://user-images.githubusercontent.com/99221997/153080122-49c80c4d-b68f-489c-98d3-057ba22a5b63.png" width="100px" />
